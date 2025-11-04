@@ -121,5 +121,3 @@ def draw_box_plot():
     fig.savefig('box_plot.png')
     return fig
 
-# Note: The provided solution above includes the necessary boilerplate for loading and cleaning
-# the data before the function definitions, which is required for the project.
